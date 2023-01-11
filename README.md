@@ -4,7 +4,7 @@ Ratty config extractor is a python script that extracts the "command & control" 
 
 This tool was published as part of the blog about polyglot JAR files:
 
-<add_link_to_blog_here>
+https://www.deepinstinct.com/blog/malicious-jars-and-polyglot-files-who-do-you-think-you-jar
 
 ## Installation
 
